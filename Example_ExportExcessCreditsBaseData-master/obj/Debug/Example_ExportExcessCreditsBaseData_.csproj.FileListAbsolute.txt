@@ -1,0 +1,19 @@
+F:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.csprojResolveAssemblyReference.cache
+F:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.ExportExcessCreditsBaseData.resources
+F:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.Properties.Resources.resources
+F:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.csproj.GenerateResource.Cache
+D:\me\Example_ExportExcessCreditsBaseData-master\bin\Debug\Example_ExportExcessCreditsBaseData_.dll
+D:\me\Example_ExportExcessCreditsBaseData-master\bin\Debug\Example_ExportExcessCreditsBaseData_.pdb
+D:\me\Example_ExportExcessCreditsBaseData-master\bin\Debug\DevComponents.DotNetBar2.dll
+D:\me\Example_ExportExcessCreditsBaseData-master\bin\Debug\FISCA.Data.dll
+D:\me\Example_ExportExcessCreditsBaseData-master\bin\Debug\DevComponents.DotNetBar2.xml
+D:\me\Example_ExportExcessCreditsBaseData-master\bin\Debug\FISCA.Data.pdb
+D:\me\Example_ExportExcessCreditsBaseData-master\bin\Debug\FISCA.Data.xml
+D:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.csprojResolveAssemblyReference.cache
+D:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.ExportExcessCreditsBaseData.resources
+D:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.Properties.Resources.resources
+D:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.csproj.GenerateResource.Cache
+D:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.dll
+D:\me\Example_ExportExcessCreditsBaseData-master\obj\Debug\Example_ExportExcessCreditsBaseData_.pdb
+D:\ischool desktop\addmodules\Application1\Example_ExportExcessCreditsBaseData_.dll
+D:\ischool desktop\addmodules\Application1\Example_ExportExcessCreditsBaseData_.pdb
